@@ -1,0 +1,5 @@
+Bouncing Cubes
+
+This program was made to test out rendering graphics with SFML. From there, it's an easy way to test how absolutely insane C++ is at rendering/computation time. 
+
+Try 10000 cubes, size 2, speed 500. It starts out near 60 FPS!!
